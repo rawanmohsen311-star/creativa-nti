@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "inter";
+}
+h3{font-size: 15px;}
+p{font-size: 13px;}
+.d-flex{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.h-375{height: 375px;}
+.m-5{margin: 5% auto;}
+.m-10{margin: 5%;}
+.p-1{padding: 1%;}
+.p-2{padding: 2%;}
+.p-5{padding: 5%;}
+.mx-2{margin:  0 2%;}
+.w-100{width: 100%;}
+.w-75{width: 75%;}
+.w-300{width: 300px;}
+.text-c{text-align: center;}
+.card{overflow: hidden;}
+.bg-bisque{background-color: rgb(245, 236, 225);}
+.color-gray{color: #000000;}
+.card img{transition: 0.5s;}
+.card:hover img{ width: 55%; padding:10% 5% 3% 5%;}
